@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## QuizDrop official website
 
-## Getting Started
+![Screenshot_1](https://github.com/DarkHorseCorder/NextJS-Quizdrop-Website/assets/120799088/f1c176f3-522f-4021-8163-13347edc17ed)
+![Screenshot_2](https://github.com/DarkHorseCorder/NextJS-Quizdrop-Website/assets/120799088/b6999d04-231b-4676-a153-78da4b8f123c)
+![Screenshot_3](https://github.com/DarkHorseCorder/NextJS-Quizdrop-Website/assets/120799088/d284e78f-94f6-4e38-b79d-3d816045f187)
+![Screenshot_4](https://github.com/DarkHorseCorder/NextJS-Quizdrop-Website/assets/120799088/6a00e63f-b82f-4581-b5f4-94c4aaa50f5b)
+![Screenshot_5](https://github.com/DarkHorseCorder/NextJS-Quizdrop-Website/assets/120799088/237b62e7-4980-47f3-b68f-de3777195989)
+
+## Setup
 
 First, run the development server:
 
